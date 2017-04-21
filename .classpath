@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/fastjson-1.1.39.jar"/>
+	<classpathentry kind="lib" path="src/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="src/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="src/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="src/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="src/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="src/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="src/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="src/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/alloy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
